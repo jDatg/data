@@ -1,11 +1,11 @@
 [{"alumno":"Pedro","nota":9.09,"ranking":50},
  {"alumno":"Juan","nota":5,"ranking":130},
- {"alumno":"Alberto","nota":7.8,"ranking":95},
- {"alumno":"Camila","nota":6.89,"ranking":30},
+ {"alumno":"Alberto","nota":7.8,"ranking":100},
+ {"alumno":"Camila","nota":6.89,"ranking":110},
  {"alumno":"Sonia","nota":3.65,"ranking":170},
  {"alumno":"Rene","nota":5.45,"ranking":120},
- {"alumno":"Noemi","nota":7.9,"ranking":100},
+ {"alumno":"Noemi","nota":7.9,"ranking":95},
  {"alumno":"Andres","nota":10,"ranking":10},
- {"alumno":"Carlos","nota":9,"ranking":120},
+ {"alumno":"Carlos","nota":9,"ranking":25},
  {"alumno":"Martin","nota":4.5,"ranking":140}
 ]
